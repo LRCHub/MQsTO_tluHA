@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナイトレコード",
+  "base_artist": "higma",
+  "createdAt": "2026-02-13T06:39:02.253293Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイトレコード",
+      "artist": "higma",
+      "has_synced": false,
+      "path": "select/pl_01_ナイトレコード_higma.txt"
+    }
+  ]
+}
